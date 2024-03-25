@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\Ababiy6rpm\bin\Debug\Ababiy6rpm.exe.config
+C:\Users\Kab-31-13\Desktop\Ababiy6rpm\bin\Debug\Ababiy6rpm.exe
+C:\Users\Kab-31-13\Desktop\Ababiy6rpm\bin\Debug\Ababiy6rpm.pdb
+C:\Users\Kab-31-13\Desktop\Ababiy6rpm\obj\Debug\Ababiy6rpm.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\Ababiy6rpm\obj\Debug\Ababiy6rpm.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\Ababiy6rpm\obj\Debug\Ababiy6rpm.exe
+C:\Users\Kab-31-13\Desktop\Ababiy6rpm\obj\Debug\Ababiy6rpm.pdb

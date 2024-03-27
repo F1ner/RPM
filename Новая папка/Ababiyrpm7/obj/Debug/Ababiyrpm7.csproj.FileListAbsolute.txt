@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\Ababiyrpm7\bin\Debug\Ababiyrpm7.exe.config
+C:\Users\Kab-31-13\Desktop\Ababiyrpm7\bin\Debug\Ababiyrpm7.exe
+C:\Users\Kab-31-13\Desktop\Ababiyrpm7\bin\Debug\Ababiyrpm7.pdb
+C:\Users\Kab-31-13\Desktop\Ababiyrpm7\obj\Debug\Ababiyrpm7.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\Ababiyrpm7\obj\Debug\Ababiyrpm7.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\Ababiyrpm7\obj\Debug\Ababiyrpm7.exe
+C:\Users\Kab-31-13\Desktop\Ababiyrpm7\obj\Debug\Ababiyrpm7.pdb

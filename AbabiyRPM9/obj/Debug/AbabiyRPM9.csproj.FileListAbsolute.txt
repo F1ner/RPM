@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\AbabiyRPM9\bin\Debug\AbabiyRPM9.exe.config
+C:\Users\Kab-31-13\Desktop\AbabiyRPM9\bin\Debug\AbabiyRPM9.exe
+C:\Users\Kab-31-13\Desktop\AbabiyRPM9\bin\Debug\AbabiyRPM9.pdb
+C:\Users\Kab-31-13\Desktop\AbabiyRPM9\obj\Debug\AbabiyRPM9.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\AbabiyRPM9\obj\Debug\AbabiyRPM9.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\AbabiyRPM9\obj\Debug\AbabiyRPM9.exe
+C:\Users\Kab-31-13\Desktop\AbabiyRPM9\obj\Debug\AbabiyRPM9.pdb
